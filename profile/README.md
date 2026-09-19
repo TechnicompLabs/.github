@@ -4,9 +4,11 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 ## Technicomp Benchtop Linux
 
-An immutable, transactional GNOME desktop for benchtop and laptop hardware, built as an openSUSE Slowroll derivative. It keeps Aeon's foundation (read-only btrfs snapshots, UEFI with systemd-boot, Ignition first-boot configuration) and departs from it in two deliberate ways: a verbatim upstream kernel.org LTS kernel, and GNOME held one release behind current, both delivered through the openSUSE Build Service. Graphical applications come from Flatpak and command-line tooling from Homebrew.
+A rolling, immutable, transactional GNOME-based LTS desktop for desktop and laptop workstations. It's a rolling distro with LTS core packages and GNOME-oldstable to minimize bugs while ensuring prompt security patches.  It's designed with the motto "Let other people be your beta testers."  The kernel has been patched to support widely-used hardware including Microsoft Surface and Apple MacBooks.  ARM will be a supported architecture in the future.  Userspace support is included for common peripherals.
 
-Benchtop Linux is in alpha. Installable disk images are released through the Build Service; the graphical installer and branding packages are the next packaging tasks.
+Graphical applications come from Flatpak and command-line tooling from Homebrew.  This is a batteries-included distro.  It comes with out-of the box support for AI, Virtualization, software development, system administration and security workflows.
+
+Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service; the graphical installer and branding packages are the next packaging tasks.
 
 | Repository | Contents |
 |---|---|
