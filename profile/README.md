@@ -4,9 +4,9 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 ## Technicomp Benchtop Linux
 
-The LTS distro that rolls: an immutable, transactional GNOME desktop for desktop and laptop workstations. Core packages track LTS releases and GNOME runs one release behind current, so the base stays stable while security patches arrive promptly. The motto is "Let other people be your beta testers." The kernel is patched to support widely used hardware, including Microsoft Surface and Apple MacBooks, and userspace support is included for common peripherals. ARM will be a supported architecture in the future.
+The LTS distro that rolls: an immutable, transactional GNOME desktop for desktop and laptop workstations. Core packages track LTS releases and GNOME runs one release behind current, so the base stays stable while security patches arrive promptly. The motto is "Let other people be your beta testers." The system is tuned for very low interactive latency: kernel preemption, scheduling, memory reclamation, and I/O are configured so the desktop stays responsive under heavy load. The kernel is patched to support widely used hardware, including Microsoft Surface and Apple MacBooks, and userspace support is included for common peripherals. ARM will be a supported architecture in the future.
 
-Graphical applications come from Flatpak and command-line tooling from Homebrew. This is a batteries-included distro, with out-of-the-box support for AI, virtualization, software development, system administration, and security workflows.
+Graphical applications come from Flatpak and command-line tooling from Homebrew. This is a batteries-included distro, with out-of-the-box support for AI, virtualization, software development, system administration, and security workflows. Audio and content-creation workloads are supported as well, with realtime scheduling and memory limits set for low-latency audio.
 
 Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service; the graphical installer and branding packages are the next packaging tasks.
 
