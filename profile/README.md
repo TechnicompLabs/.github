@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="Technicomp Labs" width="420"></p>
+
 # Technicomp Labs
 
 The home of **Technicomp Benchtop Linux**, and of future open-source projects from [Technicomp Labs](https://technicomplabs.io).
