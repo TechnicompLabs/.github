@@ -10,7 +10,7 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 **Updates that don't break your bench.** Benchtop Linux is a GNOME desktop operating system for desktop and laptop workstations. Its core packages follow long-term-support releases and its desktop is GNOME Oldstable, which keeps the system stable while security fixes continue to arrive promptly. Each update is installed as a snapshot that can be rolled back. The project's motto is "Let other people be your beta testers."
 
-The desktop remains responsive under heavy load, and the system supports the following threads of technical work without additional configuration: AI, virtualization, software development, system administration, security, reverse engineering, and content creation. Applications are installed through Flatpak and command-line tools through Homebrew. Benchtop Linux supports workstation-class x86 and ARM hardware and ships long-term-support and current kernels, both patched for hardware support. It is also optimized for Microsoft Surface devices, Apple MacBooks, Lenovo ThinkPads, and ASUS and Razer laptops, as well as common peripherals.
+The desktop remains responsive under heavy load, and the system is configured for technical work ranging from AI and virtualization to reverse engineering and content creation. Applications are installed through Flatpak and command-line tools through Homebrew. Benchtop Linux runs on workstation-class x86 and ARM hardware and ships long-term-support and current kernels, both with patches that extend support for laptops, tablets, convertibles, and common peripherals.
 
 Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service.
 
