@@ -12,7 +12,7 @@ The LTS distro that rolls: an immutable, transactional GNOME desktop for desktop
 
 Graphical applications come from Flatpak and command-line tooling from Homebrew. This is a batteries-included distro, with out-of-the-box support for AI, virtualization, software development, system administration, and security workflows. Audio and content-creation workloads are supported as well, with realtime scheduling and memory limits set for low-latency audio.
 
-Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service; the graphical installer and branding packages are the next packaging tasks.
+Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service.
 
 | Repository | Contents |
 |---|---|
@@ -23,7 +23,7 @@ Technicomp Benchtop Linux is in alpha. Installable disk images are released thro
 | [packages](https://github.com/TechnicompLabs/packages) | Additional RPM packages not carried by openSUSE |
 | [benchtop-notes](https://github.com/pauldmartinphd/benchtop-notes) | Design notes: decisions, open questions, and references |
 
-Packages and images build at [home:technicomp](https://build.opensuse.org/project/show/home:technicomp) on the openSUSE Build Service. A project site at benchtoplinux.org is in preparation.
+Packages and images build at [home:technicomp](https://build.opensuse.org/project/show/home:technicomp) on the openSUSE Build Service.
 
 ## Elsewhere
 
