@@ -8,9 +8,9 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 *The operating system for the technical workbench.*
 
-**Updates that don't break your bench.** Benchtop Linux is a GNOME desktop for desktop and laptop workstations. Its core follows long-term-support releases and the desktop runs GNOME Oldstable, so the system stays stable while security fixes still arrive quickly. Every update is a snapshot you can roll back. The motto is "Let other people be your beta testers."
+**Updates that don't break your bench.** Benchtop Linux is a GNOME desktop operating system for desktop and laptop workstations. Its core packages follow long-term-support releases and its desktop is GNOME Oldstable, which keeps the system stable while security fixes continue to arrive promptly. Each update is installed as a snapshot that can be rolled back. The project's motto is "Let other people be your beta testers."
 
-The desktop stays responsive under heavy load, and it's ready out of the box for every thread of your work: AI, virtualization, software development, system administration, security, reverse engineering, and content creation. Apps come from Flatpak and command-line tools from Homebrew. It runs on workstation-class x86 hardware and is also optimized for Microsoft Surface devices, Apple MacBooks, Lenovo ThinkPads, and ASUS and Razer laptops, along with common peripherals. ARM support is coming.
+The desktop remains responsive under heavy load, and the system supports the following threads of technical work without additional configuration: AI, virtualization, software development, system administration, security, reverse engineering, and content creation. Applications are installed through Flatpak and command-line tools through Homebrew. Benchtop Linux supports workstation-class x86 hardware and ships long-term-support and current kernels, both patched for hardware support. It is also optimized for Microsoft Surface devices, Apple MacBooks, Lenovo ThinkPads, and ASUS and Razer laptops, as well as common peripherals. Support for ARM is planned.
 
 Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service.
 
