@@ -8,9 +8,9 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 *The operating system for the technical workbench.*
 
-Updates that don't break your bench. Benchtop Linux is an immutable, transactional GNOME desktop for desktop and laptop workstations, with rolling updates on an LTS foundation. Core packages track LTS releases and GNOME runs one release behind current, so the base stays stable while security patches arrive promptly. The motto is "Let other people be your beta testers." Benchtop Linux prioritizes low interactive latency and workstation stability, so the desktop stays responsive even when the machine is busy. Benchtop Linux is optimized for widely used hardware, including Microsoft Surface devices, Apple MacBooks, Lenovo ThinkPads, ASUS and Razer laptops, and common peripherals. ARM will be a supported architecture in the future.
+**Updates that don't break your bench.** Benchtop Linux is a GNOME desktop for desktop and laptop workstations. Its core follows long-term-support releases and GNOME stays one version behind, so the system stays stable while security fixes still arrive quickly. Every update is a snapshot you can roll back. The motto is "Let other people be your beta testers."
 
-Graphical applications come from Flatpak and command-line tooling from Homebrew. This is a batteries-included distro, with out-of-the-box support for the threads of technical work: AI, virtualization, software development, system administration, security, reverse engineering, and content creation.
+The desktop stays responsive under heavy load, and it's ready out of the box for every thread of your work: AI, virtualization, software development, system administration, security, reverse engineering, and content creation. Apps come from Flatpak and command-line tools from Homebrew. It's optimized for Microsoft Surface devices, Apple MacBooks, Lenovo ThinkPads, ASUS and Razer laptops, and common peripherals, and ARM support is coming.
 
 Technicomp Benchtop Linux is in alpha. Installable disk images are released through the Build Service.
 
