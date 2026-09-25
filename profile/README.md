@@ -8,7 +8,7 @@ The home of **Technicomp Benchtop Linux**, and of future open-source projects fr
 
 *The operating system for the technical workbench.*
 
-**Updates that don't break your bench.** Benchtop Linux is an immutable operating system for x86 and ARM workstations, with LTS core packages and a GNOME Oldstable desktop, so the system stays stable while security and bug fixes arrive promptly. Every update is a snapshot that can be rolled back. Flatpak and Homebrew are managed per user. The motto is "Let other people be your beta testers."
+**Updates that don't break your bench.** Benchtop Linux is an immutable operating system for x86 and ARM workstations, with LTS core packages and a GNOME old-stable desktop, so the system stays stable while security and bug fixes arrive promptly. Every update is a snapshot that can be rolled back. Flatpak and Homebrew are managed per user. The motto is "Let other people be your beta testers."
 
 Benchtop Linux is in alpha. Installable images are released through the Build Service.
 
